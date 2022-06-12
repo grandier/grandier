@@ -1,4 +1,4 @@
-<img src="https://github.com/oliveira-gabriel/oliveira-gabriel/blob/main/dev.gif?raw=true" width="50%" align="right"/>
+<img src="https://github.com/oliveira-gabriel/oliveira-gabriel/blob/main/dev.gif?raw=true" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Kemas</h1>
 <h3 align="center">A person who enjoys life</h3>
