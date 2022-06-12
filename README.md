@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grandier&label=Profile%20views&color=0e75b6&style=flat" alt="grandier" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandier" alt="grandier" /></a> </p>
 
 - 🔭 I’m currently working on **on building my future**
 
