@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to be a better self
 - 👯 I’m looking to collaborate on anything especially web development
 - 💬 Ask me about anything (even private things 😝)
-- 📫 How to reach me: rafly.badry20@gmail.com or through my linkedin [linkedin.com/in/kemasrafly](https://www.linkedin.com/in/kemasrafly/)
+- 📫 How to reach me: rafly.badry20@gmail.com or through my linkedin [linkedin/kemasrafly](https://www.linkedin.com/in/kemasrafly/)
 - ⚡ Fun fact: I Cannot Wake Up Late
 
 <!-- 
