@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+- 🔭 I’m currently working on building my future
+- 🌱 I’m currently learning how to be a better self
+- 👯 I’m looking to collaborate on anything especially web development
+- 💬 Ask me about anything (even private things 😝)
+- 📫 How to reach me: rafly.badry20@gmail.com or through my instagram @kemasrfly
+- ⚡ Fun fact: I Cannot Wake Up Late
+
+<!-- 
 **grandier/grandier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
