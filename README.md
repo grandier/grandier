@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Kemas</h1>
 <h3 align="center">A person who enjoys life</h3>
-
+<p align="left"> 
 <img src="https://github.com/oliveira-gabriel/oliveira-gabriel/blob/main/dev.gif?raw=true" width="50%" height="50%" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grandier&label=Profile%20views&color=0e75b6&style=flat" alt="grandier" /> </p>
+<img src="https://komarev.com/ghpvc/?username=grandier&label=Profile%20views&color=0e75b6&style=flat" alt="grandier" /> </p>
 
 
 - 🔭 I’m currently working on **on building my future**
