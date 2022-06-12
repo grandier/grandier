@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kemas</h1>
 <h3 align="center">A person who enjoys life</h3>
 
-<img src="https://github.com/oliveira-gabriel/oliveira-gabriel/blob/main/dev.gif?raw=true" width="50%" align="right"/>
+<img src="https://github.com/oliveira-gabriel/oliveira-gabriel/blob/main/dev.gif?raw=true" width="50%" height="80%" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grandier&label=Profile%20views&color=0e75b6&style=flat" alt="grandier" /> </p>
 
