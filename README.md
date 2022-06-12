@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30" width="30"/>, I'm Kemas
 
 - 🔭 I’m currently working on building my future
 - 🌱 I’m currently learning how to be a better self
