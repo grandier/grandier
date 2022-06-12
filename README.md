@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi [👋](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif), I'm Kemas</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30" width="30"/>, I'm Kemas</h1>
 <h3 align="center">A person who enjoys life</h3>
 <p align="left"> 
 <img src="https://github.com/oliveira-gabriel/oliveira-gabriel/blob/main/dev.gif?raw=true" width="50%" height="50%" align="right"/>
