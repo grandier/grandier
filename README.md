@@ -22,6 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grandier&show_icons=true&locale=en" alt="grandier" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grandier&show_icons=true&locale=en&layout=compact" alt="grandier" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grandier&" alt="grandier" /></p>
 
 
